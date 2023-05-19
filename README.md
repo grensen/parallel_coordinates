@@ -36,5 +36,5 @@ Parallel coordinates is a visualization technique used to explore multidimension
 
 ## Regression House Price 
 <p align="center">
-  <img src="https://github.com/grensen/parallel_coordinates/blob/main/figures/housing.png?raw=true">
+  <img src="https://github.com/grensen/parallel_coordinates/blob/main/figures/pc_housing.png?raw=true">
 </p>
