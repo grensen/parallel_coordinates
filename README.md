@@ -38,3 +38,8 @@ Parallel coordinates is a visualization technique used to explore multidimension
 <p align="center">
   <img src="https://github.com/grensen/parallel_coordinates/blob/main/figures/pc_housing.png?raw=true">
 </p>
+
+## Hard Ruler in Action
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_ruler_train_test_demo.gif">
+</p>
