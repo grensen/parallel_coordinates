@@ -43,3 +43,14 @@ Parallel coordinates is a visualization technique used to explore multidimension
 <p align="center">
   <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_ruler_train_test_demo.gif">
 </p>
+
+## Installation .NET 7
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grensen/custom_connect/main/figures/install.gif?raw=true">
+</p>
+
+* Run  [Visual Studio 2022 Community](https://visualstudio.microsoft.com/downloads/)
+* [Copy](https://github.com/grensen/parallel_coordinates/tree/main/datasets) to your C: folder.
+* Follow the animation (create WPF App, delete stuff, activate Release mode, create pc_ruler.cs class, copy [code](https://github.com/grensen/parallel_coordinates/blob/main/pc_ruler_wpf.cs), start app and set your rules!)
+
