@@ -1,5 +1,11 @@
 # Parallel Coordinates Usinc C#
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/parallele_koordinaten_ger_wikipedia.png?raw=true">
+</p>
+
 Parallel coordinates is a visualization technique used to explore multidimensional data. 
 
 ## Iris Dataset
