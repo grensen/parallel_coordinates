@@ -50,12 +50,9 @@ Parallel coordinates is a visualization technique used to explore multidimension
   <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_ruler_train_test_demo.gif">
 </p>
 
-### Style Stack & Style Distribution
+## Style Stack & Style Distribution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_style_stack.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_style_distribution.png">
+  <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_style_stack_and_distribution.png">
 </p>
 
 ## Installation .NET 7
