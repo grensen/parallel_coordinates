@@ -50,12 +50,11 @@ Parallel coordinates is a visualization technique used to explore multidimension
   <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_ruler_train_test_demo.gif">
 </p>
 
-## Style Stack
+### Style Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_style_stack.png">
 </p>
-
-## Style Distribution
+### Style Distribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/grensen/parallel_coordinates/main/figures/pc_style_distribution.png">
 </p>
